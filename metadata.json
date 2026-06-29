@@ -1,0 +1,10 @@
+{
+  "name": "LifeSaver AI",
+  "description": "A proactive productivity companion that helps you beat deadlines, auto-decompose big goals, manage stress, and write extension drafts.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
